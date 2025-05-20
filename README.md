@@ -1,7 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # NAME: PREM R
 ## DATE: 15.04.2025
-# REGNO: 212223240121
+# REGNO: 212223240124
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
